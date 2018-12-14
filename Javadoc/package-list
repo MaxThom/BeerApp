@@ -1,0 +1,10 @@
+view.beerapp.activities.hardware
+view.beerapp.activities.location_drink
+view.beerapp.activities.login
+view.beerapp.activities.navigation
+view.beerapp.activities.navigation.newsFeed
+view.beerapp.activities.users
+view.beerapp.contract
+view.beerapp.entities
+view.beerapp.repository
+view.beerapp.utility
